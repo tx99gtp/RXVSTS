@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# Ranorex Studio 8.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71B33A0F-5860-4E0B-80D0-42E586C9E8F1}"
+	ProjectSection(SolutionItems) = postProject
+		Ranorex = .\Ranorex.rxsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTSforDaBoys", "VSTSforDaBoys\VSTSforDaBoys.csproj", "{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}.Debug|x86.Build.0 = Debug|x86
+		{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}.Debug|x86.ActiveCfg = Debug|x86
+		{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}.Release|x86.Build.0 = Release|x86
+		{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

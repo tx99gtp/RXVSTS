@@ -1,0 +1,13 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution VSTSforDaBoys[VSTSforDaBoys[]]]&#xD;&#xA;Solution VSTSforDaBoys\VSTSforDaBoys\Recording1.rxrec&#xD;&#xA;Solution VSTSforDaBoys" />
+  <StartupProject value="{25D6CB77-250E-42C0-9B1C-6E60971D0ECD}" />
+</Properties>

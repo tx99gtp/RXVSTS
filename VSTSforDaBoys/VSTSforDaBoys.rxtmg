@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.1">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="VSTSforDaBoys"
+      id="517a3c22-448b-4e20-9fb4-0603e3c453d1"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="VSTSforDaBoys"
+      id="517a3c22-448b-4e20-9fb4-0603e3c453d1"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
