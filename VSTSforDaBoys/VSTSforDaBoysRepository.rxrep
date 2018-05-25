@@ -28,7 +28,7 @@ rxversion="8.1">
 			name="FirstName"
 			refimgid="cbf8cde1-881b-4cb1-b342-0fc9863039f0"
 			searchtimeout="30000ms">
-				/dom//input[#'FirstName']
+				/dom[@domain='www.ranorex.com']//input[#'FirstName']
 			</item>
 			<item
 			addcaps="unknown,webelement,bodytag"
@@ -36,12 +36,11 @@ rxversion="8.1">
 			id="6eab03bd-efd6-48eb-8693-45658ba6ab8e"
 			name="SomeBodyTag"
 			refimgid="f2682e70-6d5a-4e7f-816d-69e0d81c4139"
-			refpath="/dom[@domain='www.ranorex.com']/body"
 			searchtimeout="30000ms">
-				/dom/body
+				/dom[@domain='www.ranorex.com']/body
 			</item>
 			<basepath>
-				/dom
+				/dom[@domain='www.ranorex.com']
 			</basepath>
 			<icon>
 				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN

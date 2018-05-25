@@ -92,7 +92,7 @@ namespace VSTSforDaBoys
             /// Creates a new RanorexVIPDatabaseTestWebApplicatio  folder.
             /// </summary>
             public RanorexVIPDatabaseTestWebApplicatioAppFolder(RepoGenBaseFolder parentFolder) :
-                    base("RanorexVIPDatabaseTestWebApplicatio", "/dom", parentFolder, 30000, null, false, "acf5878e-f2cc-4cf8-ae2c-ce913586db16", "")
+                    base("RanorexVIPDatabaseTestWebApplicatio", "/dom[@domain='www.ranorex.com']", parentFolder, 30000, null, false, "acf5878e-f2cc-4cf8-ae2c-ce913586db16", "")
             {
                 _firstnameInfo = new RepoItemInfo(this, "FirstName", ".//input[#'FirstName']", 30000, null, "6080bfbd-f3a7-4271-a375-bb319586a289");
                 _somebodytagInfo = new RepoItemInfo(this, "SomeBodyTag", "body", 30000, null, "6eab03bd-efd6-48eb-8693-45658ba6ab8e");

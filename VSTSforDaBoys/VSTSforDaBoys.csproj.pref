@@ -4,8 +4,8 @@
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
-    <Element value="VSTSforDaBoys.rxtst" />
     <Element value="Recording1.rxrec" />
+    <Element value="VSTSforDaBoys.rxtst" />
   </Array>
   <Properties name="projectSavedData">
     <Array name="recentusercodeselections" />
