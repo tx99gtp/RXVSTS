@@ -47,6 +47,15 @@ rxversion="8.1">
 				https://www.ranorex.com/web-testing-examples/vip/
 			</url>
 		</openwebsiterecorditem>
+		<explicitdelayitem
+		duration="500ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
 		<closeapprecorditem
 		enabled="True"
 		graceperiod="0ms"

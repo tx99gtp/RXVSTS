@@ -83,7 +83,10 @@ namespace VSTSforDaBoys
             Host.Current.OpenBrowser("https://www.ranorex.com/web-testing-examples/vip/", "IE", "", false, false, false, false, false);
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Application", "Closing application containing item 'RanorexVIPDatabaseTestWebApplicatio'.", repo.RanorexVIPDatabaseTestWebApplicatio.SelfInfo, new RecordItemIndex(1));
+            Report.Log(ReportLevel.Info, "Delay", "Waiting for 500ms.", new RecordItemIndex(1));
+            Delay.Duration(500, false);
+            
+            Report.Log(ReportLevel.Info, "Application", "Closing application containing item 'RanorexVIPDatabaseTestWebApplicatio'.", repo.RanorexVIPDatabaseTestWebApplicatio.SelfInfo, new RecordItemIndex(2));
             Host.Current.CloseApplication(repo.RanorexVIPDatabaseTestWebApplicatio.Self, new Duration(0));
             Delay.Milliseconds(0);
             
